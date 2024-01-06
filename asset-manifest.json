@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.88474277.css",
+    "main.js": "/my-portfolio/static/js/main.774fde33.js",
+    "static/js/111.81f35e6c.chunk.js": "/my-portfolio/static/js/111.81f35e6c.chunk.js",
+    "static/media/photo.png": "/my-portfolio/static/media/photo.19f3e1fa40a16c22b62f.png",
+    "static/media/icons-sprite.svg": "/my-portfolio/static/media/icons-sprite.88db3f656cad0fdfb48a4514cbab271d.svg",
+    "static/media/Rectangle_4.webp": "/my-portfolio/static/media/Rectangle_4.947a97636cfbaffc4cb6.webp",
+    "static/media/Rectangle_2.webp": "/my-portfolio/static/media/Rectangle_2.ed8e30cac132dc3076fd.webp",
+    "static/media/Rectangle_1.webp": "/my-portfolio/static/media/Rectangle_1.3f8d66a630232328354e.webp",
+    "static/media/Rectangle_6.webp": "/my-portfolio/static/media/Rectangle_6.4525a9ff8fbabec9340c.webp",
+    "static/media/Rectangle_3.webp": "/my-portfolio/static/media/Rectangle_3.94ce6370a75faede846f.webp",
+    "static/media/Rectangle_5.webp": "/my-portfolio/static/media/Rectangle_5.80a6aee238fa23d1af2e.webp",
+    "index.html": "/my-portfolio/index.html",
+    "main.88474277.css.map": "/my-portfolio/static/css/main.88474277.css.map",
+    "main.774fde33.js.map": "/my-portfolio/static/js/main.774fde33.js.map",
+    "111.81f35e6c.chunk.js.map": "/my-portfolio/static/js/111.81f35e6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88474277.css",
+    "static/js/main.774fde33.js"
+  ]
+}
